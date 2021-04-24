@@ -1,0 +1,9 @@
+{
+  "viewportWidth": 400,
+  "viewportHeight": 400,
+  "video": false,
+  "testFiles": "**/*spec.{js,jsx,ts,tsx}",
+  "ignoreTestFiles": ["**/__snapshots__/*", "**/__image_snapshots__/*"],
+  "componentFolder": "src",
+  "fixturesFolder": false
+}
